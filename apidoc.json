@@ -1,0 +1,12 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Recipes API document",
+  "template": {
+    "forceLanguage": "en"
+  },
+  "apidoc": {
+    "title": "Custom apiDoc browser title",
+    "url" : "https://localhost:3001/apidoc"
+  }
+}
